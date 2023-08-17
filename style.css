@@ -15,4 +15,7 @@ h2{
     background-color: chocolate;
  }
 
-
+.navbar-brand {
+    margin: -3;
+    color: aquamarine;
+}
