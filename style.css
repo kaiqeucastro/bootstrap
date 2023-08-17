@@ -12,10 +12,12 @@ h2{
 }
 
  header {
-    background-color: chocolate;
+    background-color: rgb(75, 14, 94);
+    color: white;
+ }
+ nav{
+    color: white;
  }
 
-.navbar-brand {
-    margin: -3;
-    color: aquamarine;
-}
+
+
